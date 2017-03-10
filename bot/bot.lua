@@ -90,11 +90,11 @@ function create_config( )
 	"lock-fosh"
 	
  },
-    sudo_users = {123456789},
-    admins = {},
+    sudo_users = {285858337},
+    admins = {285858337},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[》permag.ir v3
+    info_text = [[》king98.v8
 
 🔰Our channel :
 》@king98_suport《
